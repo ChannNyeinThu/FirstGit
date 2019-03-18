@@ -1,3 +1,6 @@
 Hello Git, I', new Git User
  
 I m new branch CNT_B
+
+
+I am branch CNT_B.I commit first time now.
