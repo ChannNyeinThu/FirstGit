@@ -1,8 +1,8 @@
 Hello Git, I', new Git User
 
 
-I created a brance "CNT_B"
+
 
  
-I m new branch CNT_B
+
 
